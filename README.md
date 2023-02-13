@@ -4,4 +4,4 @@
 
 This repository includes codes used in the epxerimental implementation of SMT.
 Using [<code>run_all.m</code>](./reconstruct_SMT/run_all.m), one can generate SMT images from the experimentally measured hyperspectral reflection matrix.
-Detailed documentation is given in comments the function files.
+Detailed documentation is given in the comments of the function files.
