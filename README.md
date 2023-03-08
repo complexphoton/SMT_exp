@@ -6,4 +6,8 @@ This repository includes codes used in the epxerimental implementation of SMT.
 Using [<code>run_all.m</code>](./reconstruct_SMT/run_all.m), one can generate SMT images from the experimentally measured hyperspectral reflection matrix.
 Detailed documentation is given in the comments of the function files.
 
-For running the code, one will need input data of reflection matrices which can be downloaded via this [link](https://drive.google.com/drive/folders/14cW9mIhvSdcnmH81uo_0kw_qVuHvjEXM?usp=share_link).
+For running the code, one will need input data of reflection matrices which can be downloaded via
+* [doi.org/10.25452/figshare.plus.22109147](https://plus.figshare.com/articles/dataset/Dataset_for_deep_volumetric_imaging_by_scattering_matrix_tomography_-_hyperspectral_reflection_matrices_of_a_USAF_target_under_1-millimeter_mouse_brain_tissue/22109147/1)
+(Reflection matrices of a 2D target under 1-millimeter biological tissue)
+* [doi.org/10.25452/figshare.plus.22114424](https://plus.figshare.com/articles/dataset/Dataset_for_deep_volumetric_imaging_by_scattering_matrix_tomography_-_hyperspectral_reflection_matrices_of_a_dense_colloid/22114424/1)
+(Reflection matrices of a dense colloid)
